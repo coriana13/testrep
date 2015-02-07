@@ -1,0 +1,2 @@
+07-02-2015 - Create git repository. 
+08-02-2015 - Document about ssh/credentials 
